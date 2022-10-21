@@ -1,0 +1,11 @@
+version: "3.5"
+
+services:
+  ocrmypdf:
+    build: ./ocrmypdf/.
+    environment:
+      - ocrPATH=/media/data/Scans
+    volumes:
+      - share:/media/data/
+    depends_on:
+    - smb
