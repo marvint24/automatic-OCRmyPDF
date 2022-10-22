@@ -1,6 +1,4 @@
-$orcPath=$env:ocrPATH
-
-Set-Location $orcPath
+Set-Location "/media/data"
 
 while ($true) {
     if(-not(Test-Path "Original")){
