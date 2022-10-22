@@ -4,5 +4,5 @@ services:
   ocrmypdf:
     build: .
     volumes:
-      - <local-path>:/media/data/
+      - <your-local-path>:/media/data/
     restart: always
