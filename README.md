@@ -13,7 +13,7 @@
 2. `De` Language selector  
 3. `XXXX` User specified part  
 
-Example:
+Example:  
 `DoOcrDe-Letter_01`
 
 
