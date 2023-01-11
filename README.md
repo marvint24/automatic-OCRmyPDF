@@ -10,7 +10,7 @@
 `1⮥--2⮥--3⮥`
 
 1. `DoOcr` Part that triggers the script  
-2. `De` Langage selector  
+2. `De` Language selector  
 3. `XXXX` User specified part  
 
 Example:
