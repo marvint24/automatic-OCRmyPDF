@@ -5,4 +5,16 @@
 3. (Optional) Add languages in the languages folder
 4. Start the container with `docker-compose up --build`
 
+### Filename format
+`DoOcrDe-XXXX`  
+`1⮥--2⮥--3⮥`
+
+1. `DoOcr` Part that triggers the script  
+2. `De` Langage selector  
+3. `XXXX` User specified part  
+
+Example:
+`DoOcrDe-Letter_01`
+
+
 Credits to [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) and [tesseract](https://github.com/tesseract-ocr/tesseract).
