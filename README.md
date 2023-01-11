@@ -5,6 +5,8 @@
 3. (Optional) Add languages in the languages folder
 4. Start the container with `docker-compose up --build`
 
+<br/>
+
 ### Filename format
 `DoOcrDe-XXXX`  
 `1⮥--2⮥--3⮥`
@@ -16,5 +18,7 @@
 Example:  
 `DoOcrDe-Letter_01`
 
+<br/>
+<br/>
 
 Credits to [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) and [tesseract](https://github.com/tesseract-ocr/tesseract).
