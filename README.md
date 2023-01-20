@@ -1,9 +1,10 @@
 ## A simple PowerShell script running in a Docker container that automatically runs OCR on the files in a specified folder.
 
-1. Modify the docker-compose.yml
-2. Change the checkFolder.ps1 to your needs
-3. (Optional) Add languages in the languages folder
-4. Start the container with `docker-compose up --build`
+1. Download this repository `git clone https://github.com/marvint24/automatic-OCRmyPDF.git`
+2. Modify the docker-compose.yml
+3. Change the checkFolder.ps1 to your needs
+4. (Optional) Add languages in the languages folder
+5. Start the container with `docker-compose up --build`
 
 <br/>
 
