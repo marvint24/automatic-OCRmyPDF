@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Use [go-ocr-pdf](https://github.com/marvint24/go-ocr-pdf) instead
+
 ## A simple PowerShell script running in a Docker container that automatically runs OCR on the files in a specified folder.
 
 1. Download this repository `git clone https://github.com/marvint24/automatic-OCRmyPDF.git`
